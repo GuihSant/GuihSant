@@ -6,9 +6,11 @@
 ---
 
 ### 🚀 About Me
-Backend-focused software developer with strong experience in **Java** and its ecosystem. I work with object-oriented programming, backend architectures, and RESTful services, always aiming for clean code, scalability, and maintainability.
 
-I am highly motivated, detail-oriented, and comfortable working in collaborative environments, with a strong interest in backend systems and software engineering best practices.
+Backend software developer with a strong focus on Java-based systems and backend engineering. Experienced in building RESTful APIs, applying object-oriented design, and following clean code and software architecture best practices.
+
+I am driven by technical excellence, system reliability, and continuous learning, and I enjoy working in collaborative environments that value high-quality software.
+
 
 ---
 
