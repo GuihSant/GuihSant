@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Guilherme Santana
 
-💻 Backend Java Developer  
+💻 Backend Developer  
 🎓 Software Engineering Student  
 
 ---
